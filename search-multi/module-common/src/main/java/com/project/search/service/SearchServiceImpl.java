@@ -32,6 +32,7 @@ public class SearchServiceImpl implements SearchService {
         } else {
             serarchDate = serarchDate.minusDays(date);
         }
+        //검색일 기준 date -하여 최근 인기검색어 수집
         List<PopularSearch> searchs = searchHistoryRepository.findTop10OrderBySearchCountDesc(serarchDate);
         return searchs;
     }
