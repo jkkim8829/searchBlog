@@ -57,3 +57,5 @@ jar파일 동작 후 127.0.0.1:8080 접근 시 간단한 프론트 구현
    - 멀티 모듈 구성
    - 동시성 이슈 처리
    - 카카오 검색 api 장애 시 네이버 api 호출
+
+jar파일 구글 드라이브 주소 : https://drive.google.com/file/d/1UThKtFfnWhyfzQpr_OdEVOMpCtNKhJsK/view?usp=sharing
