@@ -1,5 +1,7 @@
 # searchBlog
 
+jar파일 동작 후 127.0.0.1:8080 접근 시 간단한 프론트 구현
+
 1. kakaoAPI 블로그 검색
    - URI : /searchBlog
    - 방식 : get
