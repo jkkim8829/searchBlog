@@ -1,0 +1,4 @@
+rootProject.name = 'search-multi'
+include 'module-common'
+include 'module-api'
+

@@ -1,0 +1,14 @@
+search:
+  blog:
+    kakao:
+      base-url: https://dapi.kakao.com
+      path: /v2/search/blog
+      header-name: Authorization
+      header-value: KakaoAK 67ef8b7edf8d8fcd23d194981369e0c9
+    naver:
+      base-url: https://openapi.naver.com
+      path: /v1/search/blog.json
+      header-id: X-Naver-Client-Id
+      header-secret: X-Naver-Client-Secret
+      header-id-value: 6zwoshV5RjusFZErM6pE
+      header-secret-value: 0mQyJvbUYT
